@@ -2,6 +2,11 @@
 
 ## Project setup
 ```
+in main.js
+    comment out first line to import Vue
+    comment last line to cosole.log(app)
+    for some reason it will not pass checks in commit unless this is done
+
 npm install
 ```
 
